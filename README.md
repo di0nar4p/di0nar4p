@@ -31,7 +31,7 @@ Object Developer {
 ## **GitHub Statics**
 
 <a href="https://github.com/di0nar4p">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0nar4p&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0nar4p&theme=dracula&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/di0nar4p">
