@@ -42,7 +42,7 @@ Object Developer {
 </a>
 
 <a href="https://github.com/di0nar4p">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=di0nar4p&show_icons=true&theme=dracula&line_height=27" alt="Glauco Santos github stats"/>
+ <img align="center" src="https://github-readme-stats.zohan.tech/api?username=di0nar4p&show_icons=true&theme=dracula&line_height=27" alt="Glauco Santos github stats"/>
 </a>
 
 
