@@ -6,7 +6,7 @@
 ## Formação acadêmica
 
 #### Graduado em Análise e desenvolvimento de sistemas pela <a href="https://unijorge.edu.br/" target="_blank">Unijorge</a> <br>
-#### Estudante de pós graduação em Data center e computação em nuvem pela <a href="https://www.portalpos.com.br/unopar" target="_blank">Unopar</a>
+#### Pós graduado em Data center e computação em nuvem pela <a href="https://www.portalpos.com.br/unopar" target="_blank">Unopar</a>
 </p>
 
 
