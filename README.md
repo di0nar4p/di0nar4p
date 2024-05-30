@@ -7,6 +7,7 @@
 
 #### Graduado em Análise e desenvolvimento de sistemas pela <a href="https://unijorge.edu.br/" target="_blank">Unijorge</a> <br>
 #### Pós graduado em Data center e computação em nuvem pela <a href="https://www.portalpos.com.br/unopar" target="_blank">Unopar</a>
+#### 🧑‍🎓 <a href="https://drive.google.com/drive/folders/1akfokjJrrwEb1lE8Wc3rmrmMGfctL-D3?usp=sharing" target="_blank">Meus certificados</a>
 </p>
 
 
@@ -17,10 +18,10 @@
 ```kotlin
 Object Developer {
  val name = "Glauco Pereira Santos"
- val acknowledgements = "System analyst"
+ val position = "System analyst"
  
  val primarySkillset = "Software engineer and Troubleshooting"
- val languages = listOf("C", "Python", "Flask", "NodeJS", "HTML", "CSS") 
+ val languages = listOf("Python", "NodeJS", "C" , "Flask" , "HTML", "CSS") 
 }
 ```
 
