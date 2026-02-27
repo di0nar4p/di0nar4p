@@ -1,7 +1,9 @@
 <h1> Hello World! 👋</h1>
 <h2> Meu nome é Glauco</h2>
-<h3>👨‍💻 Desenvolvedor back-end</h3>
-<p>Sempre em busca de evolução pessoal e profissional, sou apaixonado por tecnologia e inovação e me dedico diariamente a encontrar soluções eficientes e aprimorar minhas habilidades, sempre aberto a novas oportunidades de aprendizado e troca de ideias.</p>  
+<h3>👨‍💻 Desenvolvedor Pleno | Back-end & Integrações</h3>
+<p>Apaixonado por tecnologia, inovação e arquitetura de software. Atualmente, atuo na modernização de sistemas governamentais críticos (SEFAZ), substituindo aplicações legadas por soluções escaláveis. Tenho vasta experiência na criação de produtos do zero, como o chatbot corporativo Nano, focando sempre em entregar código limpo e eficiente. Minha stack principal inclui Python (Flask/Jinja), Node.js, JavaScript e Cloud Computing. Sempre aberto a novos desafios, aprendizados e uma boa troca de ideias!
+</p>  
+
 
 ## Formação acadêmica
 
