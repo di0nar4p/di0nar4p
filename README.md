@@ -38,15 +38,6 @@ Always open to new challenges, learning opportunities, and a good exchange of id
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=di0nar4p&show_icons=true&theme=dracula&line_height=27"/>
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=di0nar4p&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ## 🎓 Education
 
 - 🎓 **Bachelor's** in Systems Analysis and Development — [Unijorge](https://unijorge.edu.br/)
