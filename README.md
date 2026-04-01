@@ -1,56 +1,61 @@
-<h1> Hello World! 👋</h1>
-<h2> Meu nome é Glauco</h2>
-<h3>👨‍💻 Desenvolvedor Pleno | Back-end & Integrações</h3>
-<p>Apaixonado por tecnologia, inovação e arquitetura de software. Atualmente, atuo na modernização de sistemas governamentais críticos (SEFAZ), substituindo aplicações legadas por soluções escaláveis. Tenho vasta experiência na criação de produtos do zero, como o chatbot corporativo Nano, focando sempre em entregar código limpo e eficiente. Minha stack principal inclui Python (Flask/Jinja), Node.js, JavaScript e Cloud Computing. Sempre aberto a novos desafios, aprendizados e uma boa troca de ideias!
-</p>  
+# Hi there, I'm Glauco 👋
 
-
-## Formação acadêmica
-
-#### Graduado em Análise e desenvolvimento de sistemas pela <a href="https://unijorge.edu.br/" target="_blank">Unijorge</a> <br>
-#### Pós graduado em Data center e computação em nuvem pela <a href="https://www.portalpos.com.br/unopar" target="_blank">Unopar</a>
-#### 🧑‍🎓 <a href="https://drive.google.com/drive/folders/1akfokjJrrwEb1lE8Wc3rmrmMGfctL-D3?usp=sharing" target="_blank">Meus certificados</a>
-</p>
-
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My skills
-
-<img align="right" width="32%" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-Object Developer {
- val name = "Glauco Pereira Santos"
- val position = "System analyst"
+### 👨‍💻 Mid-level Developer · Back-end & Integrations
  
- val primarySkillset = "Software engineer and Troubleshooting"
- val languages = listOf("Python", "NodeJS", "C" , "Flask" , "HTML", "CSS") 
-}
-```
+Passionate about technology, innovation, and software architecture. I work on modernizing critical government systems (SEFAZ), replacing legacy applications with scalable, high-performance solutions.
+ 
+I have experience building products from scratch — such as the corporate chatbot **Nano** — always focused on clean, efficient, and well-structured code. My main stack revolves around **Python**, **Node.js**, and **Cloud Computing**.
+ 
+Always open to new challenges, learning opportunities, and a good exchange of ideas!
 
-## **Languages and Tools:**  
+---
 
+## 🚀 Technologies & Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+### Back-end
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## **GitHub Statics**
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-<!-- <a href="https://github.com/di0nar4p">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0nar4p&theme=dracula&hide_langs_below=0" />
-</a> -->
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<a href="https://github.com/di0nar4p">
- <img align="center" src="https://github-readme-stats.zohan.tech/api?username=di0nar4p&show_icons=true&theme=dracula&line_height=27" alt="Glauco Santos github stats"/>
-</a>
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
-<br>
+## 📊 GitHub Stats
 
-#### Social Networks!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=di0nar4p&show_icons=true&theme=dracula&line_height=27"/>
+  <img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=di0nar4p&layout=compact&theme=dracula"/>
+</div>
 
-👔 [linkedin](https://www.linkedin.com/in/glaucopsantos/)
+---
 
+## 🎓 Education
 
+- 🎓 **Bachelor's** in Systems Analysis and Development — [Unijorge](https://unijorge.edu.br/)
+- 🎓 **Postgraduate** in Data Center and Cloud Computing — [Unopar](https://www.portalpos.com.br/unopar)
+- 🤖 **Postgraduate (in progress)** in Applied AI Engineering
+- 📜 [My certificates](https://drive.google.com/drive/folders/1akfokjJrrwEb1lE8Wc3rmrmMGfctL-D3?usp=sharing)
+
+---
+
+## 🤝 Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucopsantos/)
+
+---
+
+> *Always seeking continuous improvement and committed to what I do.*
