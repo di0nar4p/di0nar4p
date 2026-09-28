@@ -48,12 +48,6 @@ Building practical experience with applied AI, focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Glauco's GitHub stats](https://github-readme-stats.vercel.app/api?username=di0nar4p&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di0nar4p&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🎓 Education
 
